@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Bill",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstName": "Chris",
+      "age": 33,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Multi-Billion Dollar hardware conglomerate."
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Software giant led built Bill Gates."
+    },
+    {
+      "id": "3",
+      "name": "Amazon",
+      "description": "E-commerce giant led by Jeff Bezos."
+    },
+    {
+      "id": "4",
+      "name": "Google",
+      "description": "Search Engine/Ad/Cloud company led by Sundar Pichai."
+    },
+    {
+      "id": "5",
+      "name": "Oracle",
+      "description": "Larry Ellison led SaaS provider dealing with a largely enterprise client."
+    }
+  ]
+}
